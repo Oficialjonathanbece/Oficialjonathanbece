@@ -1,5 +1,5 @@
 <picture>
-  <img src="IMAGENES/baner.png" alt="Banner del repositorio" width="1280" height="420">
+  <img src="IMAGENES/baner.png" alt="Banner del repositorio" width="1584" height="396">
 </picture>
 
 
