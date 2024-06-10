@@ -98,7 +98,7 @@
 
 <li>
 <a href="https://linkedin.com/in/jonathanrodriguezbecerra/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  jonathanrodriguezbecerra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -106,7 +106,7 @@
 
 <li>
 <a href="mailto:bcjonathan99@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Jonathan Rodriguez Becerra-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -115,7 +115,6 @@
 
 <br>
 <img src="IMAGENES/linea_secuencia.gif">
-<br>
 <br>
 <br>
 
