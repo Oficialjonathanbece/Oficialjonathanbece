@@ -90,7 +90,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="IMAGENES/about_me.gif" width ="80">
+## <b> Let's Connect..!</b><img src="IMAGENES/saludo.gif" width ="80">
 <br>
 <div align='left'>
 
