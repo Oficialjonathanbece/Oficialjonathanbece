@@ -142,5 +142,5 @@
 <br>
 
 <footer>
-  <p>&copy; 2024 Credit: [Abdul Khalid](https://github.com/Oficialjonathanbece). Todos los derechos reservados.</p>
+  <p>&copy; 2024 Todos los derechos reservados. Credit Jonathan Rodriguez Becerra https://github.com/Oficialjonathanbece </p>
 </footer>
