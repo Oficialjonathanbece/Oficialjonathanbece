@@ -119,20 +119,6 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b>Oficialjonathanbece</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
 <footer>
   <p>&copy; 2024 Todos los derechos reservados. Credit Jonathan Rodriguez Becerra https://github.com/Oficialjonathanbece </p>
 </footer>
