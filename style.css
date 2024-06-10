@@ -1,0 +1,155 @@
+/* General Styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Profile Header */
+.profile-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.profile-header img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+}
+
+/* About Me Section */
+.about-me {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.about-me h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.about-me ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-me li {
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Skills Section */
+.skills {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.skills h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.skills-categories {
+    margin-bottom: 20px;
+}
+
+.skills-categories h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.skills-categories ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.skills-categories li {
+    flex-basis: 45%;
+    padding: 5px;
+    text-align: center;
+}
+
+.skills-categories img {
+    width: 30px;
+    height: auto;
+    margin-right: 5px;
+}
+
+/* Github Stats Section */
+.github-stats {
+    padding-bottom: 20px;
+}
+
+.github-stats h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.stats-container img {
+    width: 49%;
+    margin-bottom: 10px;
+}
+
+/* Social Links Section */
+.connect {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.connect a {
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.linkedin {
+    background-color: #007bb5;
+}
+
+.github {
+    background-color: #426288;
+}
+
+.email {
+    background-color: #28a745;
+}
+
+.stackoverflow {
+    background-color: #f44336;
+}
+
+.resume {
+    background-color: #cddc39;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .stats-container img {
+        width: 100%;
+    }
+}
