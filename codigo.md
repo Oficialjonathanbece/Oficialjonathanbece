@@ -9,7 +9,7 @@
 
 <br>
 	
-## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "IMAGENES/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="IMAGENES/video.gif" width = 250px></picture>
 
